@@ -1,0 +1,11 @@
+button{
+    width: 420px;
+    height: 55;
+    border: none;
+    border-radius: 0;
+    background-color: purple;
+    font-family: inherit;
+    color: white;
+    font-size: 20px ;
+    cursor: pointer;
+}
